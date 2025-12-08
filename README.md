@@ -10,6 +10,6 @@
 - 💬 Ask me about: **Vue, Powershell, C#, Architecture, Azure**
 - 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/alexcarlsen/)**
 - ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
-
+</br>
 ---
 
