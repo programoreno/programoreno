@@ -1,6 +1,4 @@
-<!--## Hi there 👋
-
-![programoreno's Stats](https://github-readme-stats.vercel.app/api?username=programoreno&theme=merko&show_icons=true&hide_border=true&count_private=true)-->
+<!--
 <h1 align="center">Hi 👋, I'm Guille</h1>
 <h3 align="center">I am a developer, Full-Stack enthusiast, React aficionado, Azure ninja, Microservice builder.</h3>
 </br>
@@ -15,3 +13,4 @@
 
 ---
 
+-->
