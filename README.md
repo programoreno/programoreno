@@ -15,7 +15,7 @@
 
 ---
 -->
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" />
 
 - 👨‍💻 Working on web development technologies like Angular, Java etc.
 - 📚 Learning everything about Frontend and Backend technologies
