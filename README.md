@@ -57,7 +57,7 @@
 ### Contact Me
 
 <span>
-  <img src="https://img.shields.io/badge/Gmail-Programoreno%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:programoreno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Programoreno%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </span>
 
 
