@@ -3,7 +3,7 @@
 <h3 align="center">I am a developer, Full-Stack enthusiast, React aficionado, Azure ninja, Microservice builder.</h3>
 </br>
 
-
+<!--
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
@@ -14,7 +14,7 @@
 </br>
 
 ---
-
+-->
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 Working on web development technologies like Angular, Java etc.
