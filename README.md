@@ -60,6 +60,9 @@
   
   <a href="https://github.com/programoreno/" target="_blank"><img src="https://img.shields.io/badge/Github-Programoreno-blackgreen?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+  <a href="https://www.instagram.com/programoreno/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Programoreno-deeppink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+  <a href="https://www.x.com/programoreno/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Programoreno-black?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 
 
