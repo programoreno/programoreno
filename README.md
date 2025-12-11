@@ -20,7 +20,7 @@
 - 👨‍💻 Working on web development technologies like Angular, Java etc.
 - 📚 Learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning
-- ⚡ Fun fact: I love Trains and fo to gym
+- ⚡ Fun fact: I love  Model Railways and train at gym
 
 </br>
 
