@@ -58,6 +58,7 @@
 
 <span>
   <a href="mailto:programoreno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Programoreno%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ 
  <a href="https://github.com/programoreno/" target="_blank"><img src="https://img.shields.io/badge/Github-Programoreno-blackgreen?style=for-the-badge&logo=github&logoColor=white"/></a>
 </span>
 
