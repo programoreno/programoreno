@@ -1,4 +1,4 @@
-<!--
+
 <h1 align="center">Hi 👋, I'm Guille</h1>
 <h3 align="center">I am a developer, Full-Stack enthusiast, React aficionado, Azure ninja, Microservice builder.</h3>
 </br>
@@ -53,7 +53,6 @@
 
 ---
 
--->
 ### Contact Me
 
   <a href="mailto:programoreno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Programoreno%40gmail.com-crimson?style=for-the-badge&logo=gmail&logoColor=white"/></a>
