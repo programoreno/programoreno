@@ -43,7 +43,8 @@
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
  <img src="https://img.shields.io/badge/swagger-grey?style=for-the-badge&logo=swagger" /> 
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
- <img src="https://img.shields.io/badge/android%20studio-grey?style=for-the-badge&logo=android" /> 
+ <img src="https://img.shields.io/badge/android%20studio-grey?style=for-the-badge&logo=android" />
+ <img src="https://img.shields.io/badge/markdown-green?style=for-the-badge&logo=markdown" /> 
 
 </span>
 <br/>
