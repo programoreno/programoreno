@@ -45,7 +45,7 @@
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
  <img src="https://img.shields.io/badge/android%20studio-grey?style=for-the-badge&logo=android" />
  <img src="https://img.shields.io/badge/markdown-green?style=for-the-badge&logo=markdown" />
- <img src ="https://img.shields.io/badge/trello-%230052CC?style=for-the-badge&logo=trello" />
+ <img src ="https://img.shields.io/badge/trello-%230052CC?style=for-the-badge&logo=trello" target="_blank" />
 
 </span>
 <br/>
