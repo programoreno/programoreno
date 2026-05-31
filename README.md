@@ -35,6 +35,7 @@
  <img src="https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql" /> 
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
  <img src="https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php" />
+ <img src="https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </span>
 <br>
 
